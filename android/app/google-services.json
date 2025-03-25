@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "579499922173",
+    "project_id": "stressmate-net",
+    "storage_bucket": "stressmate-net.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579499922173:android:4e959c9a1156f9ab656494",
+        "android_client_info": {
+          "package_name": "com.example.stressmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579499922173-irgnnddi6bof9q0vs63noh1h6t59abgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsMYH9yXVujJozVciQos5TRHbOVGwFrps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579499922173-irgnnddi6bof9q0vs63noh1h6t59abgd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "579499922173-5dlf98k8avs01u140jamg4k0kls9noo0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "stress.mate.com.stressmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
