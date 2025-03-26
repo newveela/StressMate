@@ -56,22 +56,22 @@ StressMate is a mobile application designed to monitor and manage stress levels 
 Here are some of the key screenshots of the app:
 
 - **Homepage**:  
-  ![Homepage](outputImages/homepage.JPG)
+  <img src="outputImages/homepage.JPG" width="300"/>
 
 - **Login Page**:  
-  ![Login](outputImages/login.JPG)
+  <img src="outputImages/login.JPG" width="300"/>
 
 - **Stress Prediction**:  
-  ![Stress Prediction](outputImages/stressprediction.JPG)
+  <img src="outputImages/stressprediction.JPG" width="300"/>
 
 - **Summary Page**:  
-  ![Summary](outputImages/summary.JPG)
+  <img src="outputImages/summary.JPG" width="300"/>
 
 - **Smart Prediction**:  
-  ![Smart Prediction](outputImages/smartprediction.JPG)
+  <img src="outputImages/smartprediction.JPG" width="300"/>
 
 - **Yoga**:  
-  ![Yoga](outputImages/yoga.JPG)
+  <img src="outputImages/yoga.JPG" width="300"/>
 
 ## Use Case Diagrams
 - **Connect Device**: Users connect their wearable device (e.g., Fitbit, Garmin) to the app via the Google Fit API.
@@ -91,4 +91,3 @@ StressMate offers a lightweight, privacy-focused solution for managing stress. B
 ## Future Enhancements
 - Support for additional wearable devices.
 - Improvements in machine learning models for more accurate stress detection.
-
